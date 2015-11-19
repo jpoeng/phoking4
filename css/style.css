@@ -135,3 +135,14 @@
 .fa {
   color: #D01F1F;
 }
+
+.blog-footer {
+  padding: 40px 0;
+  color: #fff;
+  text-align: center;
+  background-color: #D01F1F;
+  border-top: 1px solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
