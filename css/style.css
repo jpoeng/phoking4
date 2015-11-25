@@ -76,12 +76,21 @@ h4 {
   /*filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
+/*.jumbotron .orderonline {
+  background-color: #000;
+  background: rgba(255,255,255,.6);
+}*/
+
+.jumbotron .orderonline p a {
+  text-decoration: none;
+}
+
 .jumbotron .banner h1 {
   /*margin: 5%;*/
   text-shadow: 2px 2px 4px #000000;
   font-weight: bold;
   color: white;
-  font-size: 5em;
+  font-size: 4.5em;
 }
 
 .jumbotron .banner p {
